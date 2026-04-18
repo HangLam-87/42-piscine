@@ -1,0 +1,2 @@
+two = 2 ; eight = 8 ; div_res = 999 ; mod_res = 999
+two = 2 ; eight = 8 ; div_res = 0 ; mod_res = 2
